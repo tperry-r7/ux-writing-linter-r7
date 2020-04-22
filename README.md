@@ -3,17 +3,29 @@ This repository contains the Rapid7 style guide linter. It checks for grammar an
 
 This can be added to your repository as an action or you can download the release and use it locally. 
 
-This is based on
+This is for the Vale linter (https://github.com/errata-ai/vale) and Vale action (https://github.com/errata-ai/vale-action).
+
+# Current Problems
+
+The action currently accepts a path to a single folder or to all folders. It tries to lint every single file, which times out because of the
+API limits. Using this locally, it isn't a problem because you can just point the tool at the file / files you are editing. If we want this to run on the repo, this needs to be solved. 
+
 
 # Use as an action
 1. Add a .vale.ini file to your local repository. See the example below. 
-2. In GitHub click on the release tab. 
-3. Grab the URL for the latest release by right clicking and copying the URL. 
+2. Create the GH action for Vale. 
+3. Add the link for the linter release and ini file to your action. 
 
 # Use locally
+Install Vale https://errata-ai.gitbook.io/vale/
+
+1. Add a vale.ini file at the top level of your directory.
+2. Copy the folder ux-writing-r7-vale into your local .github folder. 
+3. Then use one of the following commands to run vale
+- `vale --glob='*.md' .`
+- `vale filePath/fileName`
 
 # .vale.ini example
-
 
 ```
 # This goes in a file named either `.vale.ini` or `_vale.ini`.
