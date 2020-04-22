@@ -1,0 +1,8 @@
+extends: existence
+message: "Don't use quotation marks for page names. '%s'."
+link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.335lyaiy196d'
+ignorecase: true
+level: suggestion
+nonword: true
+tokens:
+  - (?:\"|\')
