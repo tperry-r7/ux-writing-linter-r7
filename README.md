@@ -25,6 +25,8 @@ Install Vale https://errata-ai.gitbook.io/vale/
 - `vale --glob='*.md' .`
 - `vale filePath/fileName`
 
+See https://github.com/tperry-r7/ux-writing-linter-test for an example of setup.
+
 # .vale.ini example
 
 ```
