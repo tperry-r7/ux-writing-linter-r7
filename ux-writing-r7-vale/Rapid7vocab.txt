@@ -13,3 +13,5 @@ Komand
 Nexpose
 Insight Agent
 Rapid7
+MSI
+config
