@@ -25,7 +25,6 @@ tokens:
   - antivirus
   - application
   - arrow keys
-  - as
   - as well as
   - attribute
   - auto-
@@ -55,7 +54,6 @@ tokens:
   - button
   - cache
   - disk cache
-  - can
   - may
   - canceled
   - canceling
@@ -95,9 +93,3 @@ tokens:
   - left click
   - which
   - usage
-  
-
-
-
-
-
