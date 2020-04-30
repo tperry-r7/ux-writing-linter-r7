@@ -4,5 +4,6 @@ link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f
 ignorecase: true
 level: suggestion
 nonword: true
+scope: sentence
 tokens:
   - (?:\"|\')
