@@ -13,8 +13,6 @@ swap:
   GHz : gigahertz
   Hz : Hertz
   hr : hours
-  in. : inches
-  in : inches
   Kbps : kilobits per second
   kHz : kilohertz
   li : lines
@@ -26,6 +24,6 @@ swap:
   ms : milliseconds
   ppi : points per inch
   sec : seconds
-  # s : seconds Keeps matching on any s. Will need to rethtink this token
-
-
+  # s : seconds Keeps matching on any . Will need to rethtink these tokens. Might need own rule
+  #in. : inches see MeasurementAbbrevetationTwo.yml for these
+  #in : inches
