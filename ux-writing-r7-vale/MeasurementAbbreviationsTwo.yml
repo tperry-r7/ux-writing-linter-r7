@@ -1,0 +1,11 @@
+extends: existence
+message: Don't abbreviate units of measure except KB, GB and MB. Only abbreviate if you need to save space. Review '%s'.
+link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.etheni1pml87'
+ignorecase: true
+level: suggestion
+scope: raw
+nonword: true
+raw:
+  - (?:\d{1,5}\sin\.|\d{1,5}in\.|\d{1,5}in|\d{1,5}s)
+
+  # Matches this pattern: 18 in., 18in, 18in. 18s
