@@ -1,0 +1,8 @@
+extends: existence
+message: Avoid Italics if possible %s.
+ignorecase: true
+level: suggestion
+scope: raw
+nonword: true
+raw: 
+  - (?:\_(.*?)\_|\*(.*?)\*)
