@@ -1,6 +1,6 @@
 extends: existence
-message: "Use an em dash when using characters, not numbers"
-link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.gvb3q55pnzcz'
+message: "Use em dashes to set-off words and phrases you want to call attention to, the way you would with a colon or parentheses. Use en dashes to express a number range."
+link: 'https://rapid7-parent.readme.io/writing-guidelines/docs/punctuation#dashes'
 nonword: true
 level: warning
 tokens:
