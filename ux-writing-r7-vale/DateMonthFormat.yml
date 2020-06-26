@@ -1,7 +1,8 @@
 extends: existence
 message: "Avoid abbreviations of months unless necessary to save space ('%s')."
-link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.85xmy2cmh0il'
+link: 'https://rapid7-parent.readme.io/writing-guidelines/docs/numbers#dates'
 nonword: false
 level: error
 tokens:
   - (jan|feb|mar|apr|jul|aug|sept|oct|nov|dec)
+  - (Jan|Feb|Mar|Apr|Jul|Aug|Sep|Sept|Oct|Nov|Dec)
