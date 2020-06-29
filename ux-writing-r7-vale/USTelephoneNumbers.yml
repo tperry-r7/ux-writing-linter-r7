@@ -1,6 +1,6 @@
 extends: existence
 message: United States telephone number should have the format (xxx)-xxx-xxxx '%s'
-link: "https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.ycicvkhncjnh"
+link: "https://rapid7-parent.readme.io/writing-guidelines/docs/numbers#telephone-numbers"
 ignorecase: true
 nonword: true
 level: warning
