@@ -1,5 +1,6 @@
 extends: capitalization
-message: "'%s' should be in sentence case"
+message: "Use sentence case for titles and headings."
+link: "https://rapid7-parent.readme.io/writing-guidelines/docs/capitalization#sentence-and-title-case"
 level: warning
 scope: heading
 match: $title
