@@ -1,6 +1,6 @@
 extends: existence
 message: Avoid using cliché, slang and other terms that might not translate to other languages. '%s'
-link: ""
+link: "https://rapid7-parent.readme.io/writing-guidelines/docs/writing-for-accessibility-and-translation#colloquialisms-idioms-humor-and-metaphor"
 ignorecase: true
 level: warning
 tokens: 
