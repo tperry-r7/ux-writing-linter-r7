@@ -1,6 +1,6 @@
 extends: existence
 message: Use numerals when writing about a specific number, regardless of how big it is or where it appears in the sentence. Spell-out numbers when they don’t represent specific facts. '%s'
-link: "https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.5vq772puonar"
+link: "https://rapid7-parent.readme.io/writing-guidelines/docs/numbers#numerals-vs-words"
 level: warning
 ignorecase: true
 nonword: true
