@@ -1,6 +1,6 @@
 extends: substitution
 message: Don't abbreviate units of measure except KB, GB and MB. Only abbreviate if you need to save space. Consider using '%s' instead of '%s'
-link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.etheni1pml87'
+link: 'https://rapid7-parent.readme.io/writing-guidelines/docs/numbers#measurements'
 ignorecase: true
 level: suggestion
 scope: sentence
