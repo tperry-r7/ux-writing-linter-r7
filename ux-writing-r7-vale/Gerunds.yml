@@ -1,7 +1,6 @@
 extends: existence
 message: Avoid using geruinds in titles and headings. '%s'
-link: "https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit# AND https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.wjv3wpz552k7"
-nonword: true
+link: "https://rapid7-parent.readme.io/writing-guidelines/docs/writing-for-accessibility-and-translation#headings"
 ignorecase: true
 scope: heading
 level: error
