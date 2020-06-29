@@ -1,7 +1,7 @@
 # Should this be a rule we check for or is it understood.
 extends: existence
-message: "Use first person (such as '%s') sparingly."
-link: ''
+message: "Use first person singular (such as '%s') only when necessary to describe in-product items (for example, 'Select My Reports...')."
+link: 'https://rapid7-parent.readme.io/writing-guidelines/docs/person'
 ignorecase: true
 level: warning
 nonword: true
@@ -9,6 +9,7 @@ tokens:
   - (?:^|\s)I\s
   - (?:^|\s)I,\s
   - \bI'm\b
+  - \bI'll\b
   - \bme\b
   - \bmy\b
   - \bmine\b
