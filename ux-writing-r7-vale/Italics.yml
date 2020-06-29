@@ -1,6 +1,6 @@
 extends: existence
 message: "Try to avoid italics '%s'. Instead use bold for emphasis."
-link: ''
+link: 'https://rapid7-parent.readme.io/writing-guidelines/docs/typographic-emphasis'
 ignorecase: true
 level: suggestion
 scope: emphasis
