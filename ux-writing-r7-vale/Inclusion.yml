@@ -1,6 +1,6 @@
 extends: substitution
 message: Use gender neutral language when possible. We use “they” to reference unknown third-persons. Consider using '%s' instead of '%s'
-link: "https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.9rxhxqv43asw"
+link: "https://rapid7-parent.readme.io/writing-guidelines/docs/pronouns"
 level: error
 ignorecase: true
 # swap maps tokens in form of bad: good
