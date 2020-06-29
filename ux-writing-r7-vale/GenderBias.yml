@@ -1,6 +1,6 @@
 extends: substitution
-message: "Avoid language that excludes or isolates. '%s' instead of '%s'."
-link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.m3kg5n4i4eaq'
+message: "Avoid language that excludes or isolates on the basis of gender. Use '%s' instead of '%s'."
+link: 'https://rapid7-parent.readme.io/writing-guidelines/docs/writing-about-people'
 ignorecase: true
 level: error
 swap:
@@ -43,3 +43,5 @@ swap:
   woman doctor:                doctor
   woman scientist[s]?:         scientist(s)
   work(?:m[ae]n|wom[ae]n):     worker(s)
+  he:                          they
+  she:                         they
