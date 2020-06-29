@@ -1,6 +1,6 @@
 extends: existence
 message: "Spell out all ordinal numbers ('%s') in text."
-link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.13vtqerosmt2'
+link: 'https://rapid7-parent.readme.io/writing-guidelines/docs/numbers#ordinal-numbers'
 level: error
 nonword: true
 tokens:
