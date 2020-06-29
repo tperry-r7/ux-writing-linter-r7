@@ -1,6 +1,6 @@
 extends: substitution
-message: "Use '%s' instead of '%s'. These are commonly misspelled or missused words. "
-link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.6itroue98z9w'
+message: "Use '%s' instead of '%s'."
+link: 'https://rapid7-parent.readme.io/writing-guidelines/docs/general-usage'
 level: warning
 ignorecase: true
 swap:
