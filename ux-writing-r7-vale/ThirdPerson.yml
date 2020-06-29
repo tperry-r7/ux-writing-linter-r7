@@ -1,0 +1,9 @@
+extends: existence
+message: "Avoid the use of third person, such as '%s', in favor of second person. By addressing people with “you” statements, we make our content more personalized, conversational, and direct."
+link: 'https://rapid7-parent.readme.io/writing-guidelines/docs/person'
+ignorecase: true
+level: warning
+nonword: true
+tokens:
+  - \buser\b
+  - \bthe user\b
