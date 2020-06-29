@@ -1,5 +1,5 @@
 extends: existence
-link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.5zi6tblnv4ol'
+link: 'https://rapid7-parent.readme.io/writing-guidelines/docs/verbs#active-voice'
 message: "In general, use active voice instead of passive voice ('%s')."
 ignorecase: true
 level: suggestion
