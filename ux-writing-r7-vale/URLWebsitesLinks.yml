@@ -1,6 +1,6 @@
 extends: existence
 message: When writing a uniform resource locator (URL), do not include the protocol, unless it’s something other than HTTP.. '%s'
-link: "https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.ipucg38o5hzx"
+link: "https://rapid7-parent.readme.io/writing-guidelines/docs/links-urls-and-websites#urls-and-websites"
 ignorecase: true
 level: warning
 scope: link
