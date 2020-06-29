@@ -1,6 +1,6 @@
 extends: existence
-message: Try to write more concise sentances '%s'
-link: ""
+message: Try to find a simpler way to say '%s', or eliminate it if it’s not necessary. 
+link: "https://rapid7-parent.readme.io/writing-guidelines/docs/writing-for-accessibility-and-translation#plain-language"
 ignorecase: true
 level: warning
 tokens: 
