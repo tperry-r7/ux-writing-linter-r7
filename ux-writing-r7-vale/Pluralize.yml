@@ -1,6 +1,6 @@
 extends: existence
-message: "Don't use plurals in parentheses such as in '%s'."
-link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.lvpq57p1ui9r'
+message: "Don't use plurals in parentheses such as in '%s'. Use the plural version of the word instead."
+link: 'https://rapid7-parent.readme.io/writing-guidelines/docs/pluralization'
 level: error
 nonword: true
 tokens:
