@@ -18,13 +18,17 @@ tokens:
   - disabled
   - dumb
   - handicaps
-  - healthy
   - lame
   - maimed
   - missing a limb
   - mute
-  - normal
   - sight-impaired
+  - sight deficient
+  - unsighted
   - stricken with
   - suffers from
   - vision-impaired
+  - physically challenged
+  - insane
+  - neurotic
+  - psychotic
